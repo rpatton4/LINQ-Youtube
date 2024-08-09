@@ -1,0 +1,12 @@
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/bin/Debug/net8.0/TCPData.deps.json
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/bin/Debug/net8.0/TCPData.dll
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/bin/Debug/net8.0/TCPData.pdb
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/TCPData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/TCPData.AssemblyInfoInputs.cache
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/TCPData.AssemblyInfo.cs
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/TCPData.csproj.CoreCompileInputs.cache
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/TCPData.sourcelink.json
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/TCPData.dll
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/refint/TCPData.dll
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/TCPData.pdb
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/ThePretendCompanyApplication/TCPData/obj/Debug/net8.0/ref/TCPData.dll

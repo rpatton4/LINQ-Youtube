@@ -1,0 +1,15 @@
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/LinqExamples_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/LinqExamples_2.AssemblyInfoInputs.cache
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/LinqExamples_2.AssemblyInfo.cs
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/LinqExamples_2.csproj.CoreCompileInputs.cache
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/LinqExamples_2.sourcelink.json
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/bin/Debug/net8.0/LinqExamples_2
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/bin/Debug/net8.0/LinqExamples_2.deps.json
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/bin/Debug/net8.0/LinqExamples_2.runtimeconfig.json
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/bin/Debug/net8.0/LinqExamples_2.dll
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/bin/Debug/net8.0/LinqExamples_2.pdb
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/LinqExamples_2.dll
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/refint/LinqExamples_2.dll
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/LinqExamples_2.pdb
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/LinqExamples_2.genruntimeconfig.cache
+/Users/robertpatton/Repositories/Learning/LINQ-Youtube/LinqExamples_2/LinqExamples_2/obj/Debug/net8.0/ref/LinqExamples_2.dll
