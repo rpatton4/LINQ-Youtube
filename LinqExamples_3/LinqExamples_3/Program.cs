@@ -2,7 +2,36 @@
 
 public class Program {
   public static void Main(string[] args) {
-     
+    List<Employee> employeeList = Data.GetEmployees();
+    List<Department> departmentList = Data.GetDepartments();
+    
+    //// Equality Operator
+    //// SequenceEqual
+    // var integerList1 = new List<int> { 1, 2, 3, 4, 5, 6 };
+    // var integerList2 = new List<int> { 1, 2, 3, 4, 5, 7 };
+    //
+    // var boolSequenceEqual = integerList1.SequenceEqual(integerList2);
+    //
+    // Console.WriteLine(boolSequenceEqual);
+
+    var employeeListCompare = Data.GetEmployees();
+    bool boolSE = employeeList.SequenceEqual(employeeListCompare, new EmployeeComparer());
+    
+    Console.WriteLine(boolSE);
+  }
+}
+
+public class EmployeeComparer : IEqualityComparer<Employee> {
+  public bool Equals(Employee x, Employee y) {
+    if (ReferenceEquals(x, y)) return true;
+    if (ReferenceEquals(x, null)) return false;
+    if (ReferenceEquals(y, null)) return false;
+    if (x.GetType() != y.GetType()) return false;
+    return x.Id == y.Id && x.FirstName == y.FirstName && x.LastName == y.LastName && x.AnnualSalary == y.AnnualSalary && x.IsManager == y.IsManager && x.DepartmentId == y.DepartmentId;
+  }
+
+  public int GetHashCode(Employee obj) {
+    return HashCode.Combine(obj.Id, obj.FirstName, obj.LastName, obj.AnnualSalary, obj.IsManager, obj.DepartmentId);
   }
 }
 
